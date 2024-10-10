@@ -13,8 +13,8 @@ A <b>Stack</b> is an abstract data stucture that contains a collection of elemen
 ### Code
 (A) 
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - PRANJAL PANWAR
+// PRN - 23070123164 
 // EXPERIMENT - 18(A) 
 
 // STACK 
@@ -89,8 +89,8 @@ int main() {
 
 (B) 
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - PRANJAL PANWAR
+// PRN - 23070123164
 // EXPERIMENT - 18(B) 
 
 // STACK 
@@ -170,8 +170,8 @@ int main() {
 
 (C) 
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - PRANJAL PANWAR 
+// PRN - 23070123164
 // EXPERIMENT - 18(C) 
 
 // STACK 
@@ -268,9 +268,6 @@ int main()
 ```
 
 ### Output 
-(A) <br> 
-![](https://github.com/Shloka-Patel/Experiment---18/blob/main/Output_18A.png) 
-
 (B) <br> 
 ![](https://github.com/Shloka-Patel/Experiment---18/blob/main/Output_18B.png) 
 
